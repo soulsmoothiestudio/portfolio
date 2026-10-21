@@ -9,8 +9,8 @@ and ship three browser-based web apps that run with nothing to install, plus a l
 sports dashboard. I also built the file system and written procedures that keep an entire
 multi-project business organized and easy to search.
 
-This page is a showcase of that work: screenshots and plain-language write-ups. The product
-source code stays in private repos, since these are apps I sell.
+This page is a showcase of that work: screenshots and plain-language write-ups. The source
+code stays in private repos, since some of these are products I sell.
 
 ---
 
@@ -58,7 +58,7 @@ code instead of an outside library, so a user's financial data never leaves thei
 ### Fantasy Football Dashboard
 *Live-data web app*
 
-A dashboard for three fantasy leagues that pulls current stats automatically each week instead
+A dashboard I built for my own three fantasy leagues that pulls current stats automatically each week instead
 of hand-typed numbers, and merges several outside ranking and injury sources into one weekly
 view. It turns that data into a clear start-or-sit read for every roster spot, weighing real
 player usage, injuries, the week's matchup, and the betting lines. It is mobile-friendly and
