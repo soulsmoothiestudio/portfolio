@@ -1,6 +1,7 @@
 # Tahirih (Teri) Magee
 
 **AI-Assisted Developer** | Web Apps · Documentation · Knowledge Systems
+
 San Antonio, TX · terirunner11@gmail.com
 
 I build real, working software with AI. This past year I used AI coding tools to design
